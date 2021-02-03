@@ -1,8 +1,0 @@
--
- name: copyfiles using ansible playbook
- hosts: all
- tasks:
-   - name: copying_files
-     copy:
-       src: /tmp/sample.txt
-       dest: /tmp/sample.txt

@@ -1,2 +1,0 @@
-target1 ansible_host=192.168.43.196 ansible_ssh_pass=centos
-target2 ansible_host=192.168.43.187 ansible_ssh_pass=centos
